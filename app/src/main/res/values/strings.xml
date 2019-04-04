@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CoachMark</string>
+    <string name="button_1">Button 1</string>
+    <string name="button_2">Button 2</string>
+    <string name="button_3">Button 3</string>
+    <string name="start_coach_mark">Start Coach Mark</string>
+
+    <string name="info_text_message">Tap on screen to move forward.</string>
+    <string name="exit_info_text_message">Tap to finish the tour.</string>
+    <string name="finish_button_text">Finish Tour</string>
+    <string name="continue_button_text">Continue Tour</string>
+</resources>
