@@ -3,7 +3,7 @@ package com.android.library.coachmark.components
 import android.content.Context
 import android.graphics.*
 import android.os.Build
-import android.support.annotation.RequiresApi
+import androidx.annotation.RequiresApi
 import android.util.AttributeSet
 import android.util.TypedValue
 import android.view.View
