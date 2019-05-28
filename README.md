@@ -1,5 +1,6 @@
 # CoachMark
-[![](https://jitpack.io/v/chhatrasal09/CoachMark.svg)](https://jitpack.io/#chhatrasal09/CoachMark)
+[![](https://jitpack.io/v/chhatrasal09/CoachMark.svg)](https://jitpack.io/#chhatrasal09/CoachMark) [![Android Arsenal]( https://img.shields.io/badge/Android%20Arsenal-CoachMark-green.svg?style=flat )]( https://android-arsenal.com/details/1/7690 )
+
 
 This library focus on giving tour about your application and its features. You can highlight the where to tap to enable or disable the feature. Show the first time user, how to use the feature by showcasing the feature step by step. This sample app will demostrate how to use this library
 
